@@ -14,56 +14,47 @@
   <img src="https://img.shields.io/badge/Phone-+91_6381313788-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
----
+<hr>
 
-### 🎯 About Me
+### 🎯𝘈𝘣𝘰𝘶𝘵 𝘔𝘦
 
-- 🎓 B.Tech in Computer Science and Engineering @ **Sri Manakula Vinayagar Engineering College** (2023 – 2027)
-- 📊 CGPA: **9.0** (up to 5th semester)
-- 💡 Passionate about **UI/UX Design**, **Web Development**, and **Java Programming**
-- 🤖 Currently exploring AI/ML, Cloud Computing, and Full Stack Development
-- 🌱 Actively learning design principles and front-end technologies through hands-on projects
-- ✨ Seeking entry-level opportunities to build user-focused, scalable applications
+- 🎓 𝘉.𝘛𝘦𝘤𝘩 𝘪𝘯 𝘊𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘚𝘤𝘪𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 @ **𝘚𝘳𝘪 𝘔𝘢𝘯𝘢𝘬𝘶𝘭𝘢 𝘝𝘪𝘯𝘢𝘺𝘢𝘨𝘢𝘳 𝘌𝘯𝘨𝘪𝘯𝘦𝘦𝘳𝘪𝘯𝘨 𝘊𝘰𝘭𝘭𝘦𝘨𝘦** (2023 – 2027)
+- 💡 𝘗𝘢𝘴𝘴𝘪𝘰𝘯𝘢𝘵𝘦 𝘢𝘣𝘰𝘶𝘵 **𝘜𝘐/𝘜𝘟 𝘋𝘦𝘴𝘪𝘨𝘯**, **𝘞𝘦𝘣 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵**, 𝘢𝘯𝘥 **𝘑𝘢𝘷𝘢 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨**
+- 🤖 𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘦𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨 𝘈𝘐/𝘔𝘓 𝘢𝘯𝘥 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵
+- 🌱 𝘈𝘤𝘵𝘪𝘷𝘦𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘥𝘦𝘴𝘪𝘨𝘯 𝘱𝘳𝘪𝘯𝘤𝘪𝘱𝘭𝘦𝘴 𝘢𝘯𝘥 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴
+-  ✨ 𝘚𝘦𝘦𝘬𝘪𝘯𝘨 𝘦𝘯𝘵𝘳𝘺-𝘭𝘦𝘷𝘦𝘭 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘶𝘴𝘦𝘳-𝘧𝘰𝘤𝘶𝘴𝘦𝘥, 𝘴𝘤𝘢𝘭𝘢𝘣𝘭𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
 
----
+<hr>
 
-### 🛠️ Technical Skills
+### 🛠️ 𝙏𝙚𝙘𝙝𝙣𝙞𝙘𝙖𝙡 𝙎𝙠𝙞𝙡𝙡𝙨
 
-**Programming Languages**
+**𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-**Web Technologies**
+**𝘞𝘦𝘣 𝘛𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘪𝘦𝘴**
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-**Tools & Platforms**
+**𝘛𝘰𝘰𝘭𝘴 & 𝘗𝘭𝘢𝘵𝘧𝘰𝘳𝘮𝘴**
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,aws" />
 </p>
 
-**Currently Exploring**
+**𝘊𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘌𝘹𝘱𝘭𝘰𝘳𝘪𝘯𝘨**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,androidstudio,tensorflow" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
 <table>
 <tr>
@@ -86,20 +77,17 @@ A cloud-based system that allows patients to book appointments online and manage
 </tr>
 </table>
 
----
+<hr>
 
-### 📜 Certifications & Internships
+### 📜 𝘾𝙚𝙧𝙩𝙞𝙛𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨 & 𝙄𝙣𝙩𝙚𝙧𝙣𝙨𝙝𝙞𝙥𝙨
 
-- 🏅 **NPTEL** — The Joy of Computing Using Python
-- 🏅 **NPTEL** — Python for Data Science
-- 💼 **EDUSKILL Virtual Internship** — AI/ML
-- 💼 **EDUSKILL Virtual Internship** — Java Fullstack Developer
-- 💼 **EDUSKILL Virtual Internship** — Android Developer
-- 💼 **EDUSKILL Virtual Internship** — AWS for Cloud Game Development
+- 🏅 **𝘕𝘗𝘛𝘌𝘓** — 𝘛𝘩𝘦 𝘑𝘰𝘺 𝘰𝘧 𝘊𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 𝘜𝘴𝘪𝘯𝘨 𝘗𝘺𝘵𝘩𝘰𝘯 ,  𝘗𝘺𝘵𝘩𝘰𝘯 𝘧𝘰𝘳 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘤𝘦
+- 💼 **𝘌𝘋𝘜𝘚𝘒𝘐𝘓𝘓 𝘝𝘪𝘳𝘵𝘶𝘢𝘭 𝘐𝘯𝘵𝘦𝘳𝘯𝘴𝘩𝘪𝘱** — 𝘈𝘐/𝘔𝘓
+- 💼 **𝘌𝘋𝘜𝘚𝘒𝘐𝘓𝘓 𝘝𝘪𝘳𝘵𝘶𝘢𝘭 𝘐𝘯𝘵𝘦𝘳𝘯𝘴𝘩𝘪𝘱** — 𝘑𝘢𝘷𝘢 𝘍𝘶𝘭𝘭𝘴𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 , 𝘈𝘯𝘥𝘳𝘰𝘪𝘥 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 , 𝘈𝘞𝘚 𝘧𝘰𝘳 𝘊𝘭𝘰𝘶𝘥 𝘎𝘢𝘮𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵
 
----
+<hr>
 
-### 🌟 Soft Skills
+### 🌟 𝙎𝙤𝙛𝙩 𝙎𝙠𝙞𝙡𝙡𝙨
 
 <p>
   <img src="https://img.shields.io/badge/Problem_Solving-4CAF50?style=flat-square" />
@@ -108,31 +96,18 @@ A cloud-based system that allows patients to book appointments online and manage
   <img src="https://img.shields.io/badge/Willingness_to_Learn-4CAF50?style=flat-square" />
 </p>
 
-### 🗣️ Languages
+### 🗣️ 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
 
 <p>
   <img src="https://img.shields.io/badge/English-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Tamil-000000?style=flat-square" />
 </p>
 
----
+<hr>
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subathraiyyapan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subathraiyyapan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subathraiyyapan&theme=tokyonight&hide_border=true" />
-</p>
-
-> ⚠️ Replace `subathraiyyapan` in the stats URLs above with your actual GitHub username for these widgets to display correctly.
-
----
-
-### 📫 Let's Connect
+### 📫 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩
 
 <p align="center">
   <a href="mailto:subathraiyyapan@gmail.com">
